@@ -30,8 +30,6 @@ Anfrage per Telefon oder E-Mail.
 | 2002 | Designerin                 |
 
 ## Galerie
-![08](https://peterkubenka.github.io/katerina/bilder/08.jpg)
-![01](https://peterkubenka.github.io/katerina/bilder/01%20Gr%C3%BCn.jpg)
-![02](https://peterkubenka.github.io/katerina/bilder/02%20Daniel%20N%C3%B6rdlingen.jpg)
-![03](https://peterkubenka.github.io/katerina/bilder/03%20Daniel%20N%C3%B6rdlingen.jpg)
-![04](https://peterkubenka.github.io/katerina/bilder/04%20Daniel%20N%C3%B6rdlingen.jpg)
+![01](https://KaterinaMueller.github.io/Art/Pictures/01 Grün.jpg)
+![02](https://KaterinaMueller.github.io/Art/Pictures/02 Daniel Nördlingen.jpg)
+
