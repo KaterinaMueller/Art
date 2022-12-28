@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+title: Kunst
+description: Kunstseite von Katerina
+github:
+  is_project_page: false
